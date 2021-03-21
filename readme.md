@@ -1,6 +1,6 @@
 # English For Developers
 
-![Cover image](assets/img/cover.jpg)
+![Cover image](assets/img/cover.png)
 
 ### Nuestro objetivo es proporcionar recursos para el aprendizaje del inglés enfocado a desarrolladores del sector tecnológico.
 
